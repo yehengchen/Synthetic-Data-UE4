@@ -56,7 +56,11 @@ Installation
 
 a. Ensure LFS is installed: [https://help.github.com/articles/installing-git-large-file-storage/](https://help.github.com/en/articles/installing-git-large-file-storage) , and use git lfs clone rather than
 downloading as .zip
+
 Install the NDDS files for the dataset synthesizer.
+```
+git clone https://github.com/NVIDIA/Dataset_Synthesizer.git
+```
 
 2. Navigate to the directory containing the files and find NDDS.uproject. This should be under the \Source sub-directory.
 
