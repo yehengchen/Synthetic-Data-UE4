@@ -1,6 +1,6 @@
 # Synthetic-Data-UE4
 
-## STEP 1
+## STEP 1 - Download the NDDS Documentation
 
 __[NVIDIA Deep learning Dataset Synthesizer (NDDS) Documentation](https://github.com/yehengchen/Synthetic-Data-UE4/blob/master/NDDS.pdf)__
 
