@@ -8,7 +8,7 @@ __[NVIDIA Deep learning Dataset Synthesizer (NDDS) Documentation](https://github
 wget https://github.com/yehengchen/Synthetic-Data-UE4/blob/master/NDDS.pdf
 ```
 ***
-## STEP 2 - Installing Nvidia Deep Learning Dataset Synthesizer
+## STEP 2 - Installing NDDS
 __Windows Specific:__
 
 First, install Visual Studio.
