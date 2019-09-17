@@ -68,3 +68,20 @@ git clone https://github.com/NVIDIA/Dataset_Synthesizer.git
 completed.
 
 Note: Nvidia Deep Learning Dataset Synthesizer plugins may only be used within a project (game) -- hosting as engine plugins not yet supported.
+
+## STEP 3 - Installing Blender
+
+Make a 3D model in solidworks or CAD etc.,then import a 3D model in Blender (.stl .dae ...) and export it as a __fbx__ file
+Then import that __fbx__ file into UE4. That is work in UE4.
+
+## STEP 4 - Run the NDDS
+
+Open the Unreal Editor with the NDDS.uproject, a default level called TestCapturer will load as indicated at the top left hand corner of the 3D view port. This level has a sample scene with a basic simulation capture set up.
+
+
+
+
+
+
+
+
