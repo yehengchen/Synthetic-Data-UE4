@@ -7,6 +7,7 @@ __[NVIDIA Deep learning Dataset Synthesizer (NDDS) Documentation](https://github
 ```
 wget https://github.com/yehengchen/Synthetic-Data-UE4/blob/master/NDDS.pdf
 ```
+***
 ## STEP 2 - Installing Nvidia Deep Learning Dataset Synthesizer
 __Windows Specific:__
 
@@ -69,10 +70,14 @@ completed.
 
 Note: Nvidia Deep Learning Dataset Synthesizer plugins may only be used within a project (game) -- hosting as engine plugins not yet supported.
 
+***
+
 ## STEP 3 - Installing Blender
 
 Make a 3D model in solidworks or CAD etc.,then import a 3D model in Blender (.stl .dae ...) and export it as a __fbx__ file
 Then import that __fbx__ file into UE4. That is work in UE4.
+
+***
 
 ## STEP 4 - Run the NDDS
 
