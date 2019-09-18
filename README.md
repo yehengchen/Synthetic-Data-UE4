@@ -76,6 +76,8 @@ Note: Nvidia Deep Learning Dataset Synthesizer plugins may only be used within a
 
 Download [[Blender]](https://www.blender.org/)
 
+
+
 Make a 3D model in solidworks or CAD etc.,then import a 3D model in Blender (.stl .dae ...) and export it as a __fbx__ file
 Then import that __fbx__ file into UE4. That is work in UE4.
 
