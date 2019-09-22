@@ -1,4 +1,4 @@
-# Synthetic-Data-UE4
+# Synthetic-Data-UE4-DOPE
 
 ## STEP 1 - Download the NDDS Documentation
 
