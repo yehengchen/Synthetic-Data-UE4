@@ -35,6 +35,7 @@ b. Installation instructions are found here.
 1. Let's start with Unreal. Once you have downloaded Epic Launcher, install it and create an Epic account.
 
 2. Once installed start the Launcher, login with your account and go to the Unreal Engine tab on the upper left corner of the Launcher. From here, make sur eyou have Library highlighted and then click the " + " icon.
+
 a. A pull down menu will appear with various engine versions. Please select Version 4.21.0
 
 3. With the engine is installed, start the Editor by pressing the Launch button. You will need to start the Editor at least once so that it sets file associations.
@@ -46,6 +47,7 @@ __Linux Specific:__
 
 a. for Unreal Engine, refer to the UE4 website instructions: [https://wiki.unrealengine.com/Building_On_Linux](https://wiki.unrealengine.com/Building_On_Linux)
 Note NDDS uses UE version 4.21.0, with respect to the unreal first time setup documentation, use git clone -b 4.21
+
 See also [https://docs.unrealengine.com/en-US/Platforms/Linux/GettingStarted](https://docs.unrealengine.com/en-US/Platforms/Linux/GettingStarted/index.html)
 
 b. Note that NDDS currently supports only Ubuntu 16.04.4 LTS
@@ -54,11 +56,10 @@ c. We successfully tested NDDS using NVIDIA driver versions 387.34 and 390.67
 
 d. If you get this warning, select "More options", then "Skip conversion"
 
-Installation
+__Installation__
 1. Download NDDS:
 
-a. Ensure LFS is installed: [https://help.github.com/articles/installing-git-large-file-storage/](https://help.github.com/en/articles/installing-git-large-file-storage) , and use git lfs clone rather than
-downloading as .zip
+a. Ensure LFS is installed: [https://help.github.com/articles/installing-git-large-file-storage/](https://help.github.com/en/articles/installing-git-large-file-storage).
 
 Install the NDDS files for the dataset synthesizer.
 ```
