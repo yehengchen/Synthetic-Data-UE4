@@ -76,8 +76,7 @@ Note: Nvidia Deep Learning Dataset Synthesizer plugins may only be used within a
 
 ## STEP 3 - Installing Blender
 
-Download [[Blender]](https://www.blender.org/)
-
+__Download [[Blender]](https://www.blender.org/)__
 
 
 Make a 3D model in solidworks or CAD etc.,then import a 3D model in Blender (.stl .dae ...) and export it as a __fbx__ file
