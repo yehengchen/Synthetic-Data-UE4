@@ -1,5 +1,7 @@
 # Synthetic-Data-UE4-DOPE
 
+<img src="https://github.com/yehengchen/Synthetic-Data-UE4/blob/master/ue4_random_background.png" width="60%" height="60%">
+
 ## STEP 1 - Download the NDDS Documentation
 
 __[NVIDIA Deep learning Dataset Synthesizer (NDDS) Documentation](https://github.com/yehengchen/Synthetic-Data-UE4/blob/master/NDDS.pdf)__
