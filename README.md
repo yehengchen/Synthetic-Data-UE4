@@ -87,7 +87,7 @@ then import that __fbx__ file into UE4,  __fbx__ file is work in UE4.
 
 ## STEP 4 - Run the NDDS
 
-Open the Unreal Editor with the Dataset_Synthesizer/Source/__NDDS.uproject__, a default level called TestCapturer will load as indicated at the top left hand corner of the 3D view port. This level has a sample scene with a basic simulation capture set up.
+Open the Unreal Editor with the `Dataset_Synthesizer/Source/__NDDS.uproject__`, a default level called TestCapturer will load as indicated at the top left hand corner of the 3D view port. This level has a sample scene with a basic simulation capture set up.
 
 
 
