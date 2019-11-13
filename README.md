@@ -81,7 +81,7 @@ __Download [[Blender]](https://www.blender.org/)__
 
 
 Make a 3D model in solidworks or CAD etc.,then import a 3D model in Blender (.stl .dae ...) and export it as a __fbx__ file
-Then import that __fbx__ file into UE4. That is work in UE4.
+then import that __fbx__ file into UE4,  __fbx__ file is work in UE4.
 
 ***
 
