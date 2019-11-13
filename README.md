@@ -50,7 +50,7 @@ Note NDDS uses UE version 4.21.0, with respect to the unreal first time setup do
 
 See also [https://docs.unrealengine.com/en-US/Platforms/Linux/GettingStarted](https://docs.unrealengine.com/en-US/Platforms/Linux/GettingStarted/index.html)
 
-b. Note that NDDS currently supports only Ubuntu 16.04.4 LTS
+b. Note that `NDDS` currently supports only `Ubuntu 16.04.4 LTS`
 
 c. We successfully tested NDDS using NVIDIA driver versions 387.34 and 390.67
 
