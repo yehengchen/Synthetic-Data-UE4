@@ -11,7 +11,7 @@ wget https://github.com/yehengchen/Synthetic-Data-UE4/blob/master/NDDS.pdf
 ```
 ***
 ## STEP 2 - Installing NDDS
-__Windows Specific:__
+### Windows Specific:
 
 First, install Visual Studio.
 a. If you are installing Visual Studio or Visual Studio Community, use the 2017 version located [here](https://visualstudio.microsoft.com/zh-hans/vs/community/). (Other versions may not be compatible.)
@@ -43,18 +43,21 @@ Creating a blank default project is good enough.
 
 4. Close the Editor and Launcher for now.
 
-__Linux Specific:__
+### Linux Specific:
 
-a. for Unreal Engine, refer to the UE4 website instructions: [https://wiki.unrealengine.com/Building_On_Linux](https://wiki.unrealengine.com/Building_On_Linux)
+* a. for Unreal Engine, refer to the UE4 website instructions: [https://wiki.unrealengine.com/Building_On_Linux](https://wiki.unrealengine.com/Building_On_Linux)
+
+__(Before git clone make sure you linked your GitHub account to your profile on https://unrealengine.com, as all Epic repositories are private)__
+
 Note NDDS uses UE version 4.21.0, with respect to the unreal first time setup documentation, use git clone -b 4.21
 
 See also [https://docs.unrealengine.com/en-US/Platforms/Linux/GettingStarted](https://docs.unrealengine.com/en-US/Platforms/Linux/GettingStarted/index.html)
 
-b. Note that `NDDS` currently supports only `Ubuntu 16.04.4 LTS`
+* b. Note that `NDDS` currently supports only __`Ubuntu 16.04.4 LTS`__
 
-c. We successfully tested NDDS using NVIDIA driver versions 387.34 and 390.67
+* c. We successfully tested NDDS using NVIDIA driver versions 387.34 and 390.67
 
-d. If you get this warning, select "More options", then "Skip conversion"
+* d. If you get this warning, select "More options", then "Skip conversion"
 
 __Installation__
 1. Download NDDS:
